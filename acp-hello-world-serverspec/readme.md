@@ -1,10 +1,11 @@
 # Node "Hello World" Example
 ## Install dependencies
 ```
-bundle install
+bundle
 ```
 
 ## Run tests
 ```
 rspec
 ```
+
